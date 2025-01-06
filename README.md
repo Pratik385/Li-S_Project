@@ -3,7 +3,7 @@
 This repository contains the global minimum structures of lithium-sulfur clusters: Li2Sn, Li3Sn, and Li4Sn. 
 The structures are organized into separate directories, each corresponding to a specific cluster type.
 
-## Directory Structure
+### Directory Structure
 
 # Total Files: 15
 
